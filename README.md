@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jose Ronaldo Duran
+# 👋 Hola, soy Ronaldo Duran
 
 ### Ingeniero de Sistemas · Ciencia de Datos · Desarrollo de Software · Innovación
 
