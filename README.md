@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Ronaldo Durán
 
-<!--
-**ronaldo-duran/ronaldo-duran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de sistemas, actualmente trabajo como desarrollador y estoy cursando una maestría en ciencia de datos.
 
-Here are some ideas to get you started:
+## 🧠 Stack principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** PHP, Java  
+- **Bases de datos:** PostgreSQL, SQL Server, MySQL  
+- **Datos:** Python  
+- **Frontend (poquito):** React, TypeScript
+
+## 🚀 En qué me enfoco
+
+- Desarrollo de soluciones backend robustas
+- Integración y modelado de datos
+- Aplicar ciencia de datos a problemas reales
