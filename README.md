@@ -127,6 +127,13 @@ La solución determina la tecnología.**
 
 Mi objetivo es comprender el problema lo suficientemente bien como para elegir —o aprender— la tecnología necesaria para construir la solución adecuada.
 
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img width="410" height="180" src="https://github-readme-stats-v5f5.onrender.com/api?username=ronaldo-duran&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="390" height="180" src="https://github-readme-stats-v5f5.onrender.com/api/top-langs?username=ronaldo-duran&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 📫 Conectemos
