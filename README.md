@@ -2,7 +2,15 @@
 
 **Ingeniero de Sistemas · Maestría en Ciencia de Datos (en curso)**
 
-Construyo soluciones que combinan **software, datos e inteligencia artificial**: desde entender el problema y diseñar la arquitectura hasta llevar el producto a producción. Actualmente trabajo en innovación y gestión de datos, y desarrollo productos propios.
+Construyo soluciones que combinan **software, datos e inteligencia artificial**, desde entender el problema hasta llevar el producto a producción.
+
+## 🧠 Sobre mí
+
+- 💼 Trabajo en **innovación y gestión de datos**
+- 💻 Desarrollo de software y aplicaciones web de punta a punta
+- 📊 Análisis, procesamiento e integración de datos
+- 🤖 Aplicaciones con IA y agentes basados en LLMs
+- 🚀 Interesado en productos SaaS, automatización y código abierto
 
 > El problema determina la solución; la solución determina la tecnología.
 
